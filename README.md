@@ -1,4 +1,4 @@
-# SALES-FORECASTING-
+# SALES-FORECASTING
 # 📊 Sales Forecasting Assessment - Wiseanalytics Internship
 
 This repository contains the Jupyter Notebook for a sales forecasting task as part of the Wiseanalytics Data Science Internship.
